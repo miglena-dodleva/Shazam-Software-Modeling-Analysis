@@ -1,1 +1,1 @@
-# Shazam-Software-Modeling-Analysis
+# Shazam-SoftwareModelingAndAnalysis
